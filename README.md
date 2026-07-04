@@ -1,4 +1,5 @@
 Automatyzacja przeliczeń walutowych (Power Query & API)
+
 Projekt mający na celu automatyzację procesu konwersji kosztów księgowanych w różnych walutach (CHF, PLN) na walutę raportowania (EUR) przy użyciu narzędzi MS Excel oraz Power Query.
 
 Kluczowe funkcjonalności:
