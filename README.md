@@ -1,7 +1,7 @@
 # Automatyzacja przeliczeń walutowych (Power Query & API)
 
 ## Cel projektu
-Projekt automatyzuje proces konwersji kosztów księgowanych w różnych walutach (CHF, PLN) na walutę raportowania (EUR), z wykorzystaniem MS Excel i Power Query. Celem było wyeliminowanie ręcznego wpisywania kursów walut przy przeliczaniu transakcji z różnych centrów kosztów oraz przygotowanie jednolitego zbioru danych gotowego do dalszej analizy finansowej.
+Projekt stworzony w celu przećwiczenia pracy z API, transformacją danych w Power Query i logiką biznesową stojącą za automatyzacją procesów finansowych. Odtwarza mechanizm przeliczania walut podobny do tego, jaki oferują systemy ERP — celem nie było stworzenie unikalnego narzędzia, tylko pokazanie umiejętności operowania danymi i narzędziami (Excel, Power Query, API) w praktycznym, zbliżonym do rzeczywistości scenariuszu.
 
 ## Problem biznesowy
 W środowiskach wielowalutowych (np. raportowanie kosztów z kilku krajów do jednej centrali) ręczne przeliczanie kursów walut jest czasochłonne i podatne na błędy — zarówno przez nieaktualne kursy, jak i pomyłki przy ręcznym wpisywaniu. Projekt rozwiązuje ten problem przez automatyczne pobieranie aktualnych kursów bezpośrednio ze źródła i podłączenie ich do procesu przeliczania.
